@@ -62,11 +62,7 @@ Here are some ideas to get you started:
 <p>
   <code><img width="40" height="40" src="./assets/Google_AI_Studio.svg" alt="Google AI Studio" title="Google AI Studio"/></code>
   <code><img width="40" height="40" src="./assets/icons8-openai.svg" alt="OpenAI" title="OpenAI"/></code>
-  <code><img width="40" height="40" src="./assets/icons8-claude.svg" alt="Anthropic Claude" title="Anthropic Claude"/></code>
   <code><img width="40" height="40" src="./assets/grok.png" alt="Grok" title="Grok"/></code>
-  <code><img width="40" height="40" src="./assets/icons8-perplexity-ai.svg" alt="Perplexity" title="Perplexity"/></code>
-  <code><img width="40" height="40" src="./assets/icons8-deepseek.svg" alt="DeepSeek" title="DeepSeek"/></code>
-  <code><img width="40" height="40" src="./assets/icons8-replit.svg" alt="Replit" title="Replit"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
 </p>
 
@@ -86,7 +82,6 @@ Here are some ideas to get you started:
 <p>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
   <code><img width="40" height="40" src="./assets/three_js.svg" alt="Three.js" title="Three.js"/></code>
