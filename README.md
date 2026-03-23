@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 
 ## Core Focus
 - AI / LLM Engineering
-- Data Science / Intelligence > AI & Tokenized Intelligence
+- Data Science (Intelligence) > AI & Tokenized Intelligence
+- Tokenization Economic > Agentic Tokenized Intelligence Governance (I don't think this direction exists, but it might appear in the future.)
 
 ## Core Languages
 
