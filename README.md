@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
+
+## Core Focus
+- AI / LLM Engineering
+- Data Science / Intelligence > AI & Tokenized Intelligence
+
 ## Core Languages
 
 <p>
