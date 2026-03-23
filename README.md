@@ -37,20 +37,18 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+The+New;Interlligence+Era+!" alt="Typing SVG" />
 </div>
 
-Hi there 👋
+## Featured Projects
 
-I’m Maximilian LOK — a Full‑Stack Engineer focused on integrating AI into data‑science and system trading applications.
-
-In the second half of 2025 I concentrated on two core projects: 
-- [biu.1-ragme-github](https://github.com/sinwulok/biu.1-ragme-github) (a retrieval‑augmented assistant prototype)
-- [biu.1-ai-quant](https://github.com/sinwulok/biu.1-ai-quant) (a real‑time multi‑asset detection and signal generation agent).
-
-During that period I iterated on RAG pipelines and retrieval components, improved real‑time detection and signal workflows for multi‑asset trading, and explored Rust for high‑performance modules and Web3 experiments.
+| Project | Description | Status |
+|---|---|---|
+| [sinwulok](https://github.com/sinwulok/sinwulok) | Personal profile repository and GitHub identity hub. | Active |
+| [credentials](https://github.com/sinwulok/credentials) | Certifications, credentials, and selected proof-of-work highlights. | Active |
+| [learning](https://github.com/sinwulok/learning) | GitHub Skills exercises, coursework practice, and learning notes. | Active |
+| [biu1-ai-quant](https://github.com/sinwulok/biu1-ai-quant) | AI quant assistant for personal investment research. | Ongoing |
+| [biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github) | Agentic RAG experimentation on GitHub. | Experimental |
+| [public-demos](https://github.com/sinwulok/public-demos) | Public demos and completed/deployed projects. | Archived / Portfolio |
 
 [You can also check my credentials page](https://sinwulok.github.io/credentials/). 
-
-In 2026 I’ll be working to productionize these systems, improve robustness, and expand open‑source contributions.
-
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
