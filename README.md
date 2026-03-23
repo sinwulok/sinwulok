@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+The+New;Interlligence+Era+!" alt="Typing SVG" />
 </div>
 
+> Building practical projects, learning continuously, and organizing my work as a personal brand hub.
+
 ## Featured Projects
 
 | Project | Description | Status |
@@ -41,8 +43,7 @@ Here are some ideas to get you started:
 | [biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github) | 🧪 Agentic RAG experimentation on GitHub. | Experimental |
 | [public-demos](https://github.com/sinwulok/public-demos) | 🚀 Public demos and completed/deployed projects. | Archived / Portfolio |
 
-> You can also check my [credentials page](https://sinwulok.github.io/credentials/).
-
+> Credentials page: [sinwulok.github.io/credentials/](https://sinwulok.github.io/credentials/)
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
