@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 | [biu1-ai-quant](https://github.com/sinwulok/biu1-ai-quant) | AI quant assistant for personal investment research. | Ongoing |
 | [biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github) | Agentic RAG experimentation on GitHub. | Experimental |
 | [public-demos](https://github.com/sinwulok/public-demos) | Public demos and completed/deployed projects. | Archived / Portfolio |
+| [You can also check my credentials page](https://sinwulok.github.io/credentials/). |
 
-[You can also check my credentials page](https://sinwulok.github.io/credentials/). 
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
