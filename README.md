@@ -39,20 +39,46 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-## Learning / Labs / Demos
-
-**learning** · **biu1-ragme-github** · **public-demos**  
-Learning exercises, agentic RAG experiments, and public demos.
-
-| Project | Description | Status |
-|---|---|---|
-| [sinwulok](https://github.com/sinwulok/sinwulok) | 📝 Personal profile repository and GitHub identity hub. | Active |
-| [credentials](https://github.com/sinwulok/credentials) | 🎓 Certifications, credentials, and selected proof-of-work highlights. | Active |
-| [learning](https://github.com/sinwulok/learning) | 📚 GitHub Skills exercises, coursework practice, and learning notes. | Active |
-| [biu1-ai-quant](https://github.com/sinwulok/biu1-ai-quant) | 👨‍🏫 AI quant assistant for personal investment research. | Ongoing |
-| [biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github) | 🧪 Agentic RAG experimentation on GitHub. | Experimental |
-| [public-demos](https://github.com/sinwulok/public-demos) | 🚀 Public demos and completed/deployed projects. | Archived / Portfolio |
-| [You can also check my credentials page](https://sinwulok.github.io/credentials/). |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sinwulok/sinwulok">sinwulok</a></td>
+    <td>📝 Personal profile repository and GitHub identity hub.</td>
+    <td>Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sinwulok/credentials">credentials</a></td>
+    <td>🎓 Certifications, credentials, and selected proof-of-work highlights.</td>
+    <td>Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sinwulok/learning">learning</a></td>
+    <td>📚 GitHub Skills exercises, coursework practice, and learning notes.</td>
+    <td>Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sinwulok/biu1-ai-quant">biu1-ai-quant</a></td>
+    <td>👨‍🏫 AI quant assistant for personal investment research.</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sinwulok/biu1-ragme-github">biu1-ragme-github</a></td>
+    <td>🧪 Agentic RAG experimentation on GitHub.</td>
+    <td>Experimental</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sinwulok/public-demos">public-demos</a></td>
+    <td>🚀 Public demos and completed/deployed projects.</td>
+    <td>Archived / Portfolio</td>
+  </tr>
+  <tr>
+    <td colspan="3">You can also check my <a href="https://sinwulok.github.io/credentials/">credentials page</a>.</td>
+  </tr>
+</table>
 
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
