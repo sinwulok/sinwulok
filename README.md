@@ -39,6 +39,11 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
+## Learning / Labs / Demos
+
+**learning** · **biu1-ragme-github** · **public-demos**  
+Learning exercises, agentic RAG experiments, and public demos.
+
 | Project | Description | Status |
 |---|---|---|
 | [sinwulok](https://github.com/sinwulok/sinwulok) | 📝 Personal profile repository and GitHub identity hub. | Active |
