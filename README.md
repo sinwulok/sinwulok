@@ -54,6 +54,13 @@ Here are some ideas to get you started:
 - Tokenization Economic > Agentic Tokenized Intelligence Governance
   - (I don't think this direction exists, but it might appear in the future.)
 
+### AI Governance & Tokenized Intelligence
+
+- Data, identity, contribution, and access as tokenized primitives
+- AI-mediated systems for decision-making and coordination
+- Incentive design, governance, and economic mechanisms
+- On-chain and off-chain intelligence workflows
+
 ## Core Languages
 
 <p>
