@@ -45,9 +45,8 @@ Here are some ideas to get you started:
 
 > Credentials page: [sinwulok.github.io/credentials/](https://sinwulok.github.io/credentials/)
 
-<!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
+<!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
-
 <details open>
   <summary><h2> ✒️ Main Dev Languages </h2></summary>
     <code><img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
