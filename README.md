@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ## AI / LLM Stack
 
 <p>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/openai.svg" alt="OpenAI" title="OpenAI"/></code>
+  <code><img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" /></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/anthropic.svg" alt="Anthropic" title="Anthropic"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/gemini.svg" alt="Gemini" title="Gemini"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/vertexai.svg" alt="Vertex AI" title="Vertex AI"/></code>
