@@ -2,14 +2,14 @@ name: Generate Snake Game
 
 # Controls when the workflow will run
 on:
-  # Schedules the workflow to run every day at midnight
+  # Schedules the workflow to run every 5 minutes (minimum supported by GitHub Actions)
   schedule:
     - cron: "*/5 * * * *"
-  # Triggers the workflow on push or pull request events but only for the "widget" branch
+  # Triggers the workflow on push or pull request events but only for the "widgets" branch
   push:
-    branches: [ "widget" ]
+    branches: [ "widgets-snake" ]
   pull_request:
-    branches: [ "widget" ]
+    branches: [ "widgets-snake" ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -21,6 +21,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       # Uses the Platane/snk action to generate the snake game
       - name: Generate Snake Game
@@ -31,18 +34,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      # Commits and pushes the generated files to the repository
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          if git diff-index --quiet HEAD; then
-            echo "No changes to commit."
-          else
-            git commit -m 'Update snake game'
-            git push
-          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Commit and push generated files to the dedicated branch `widgets-snake`
+      - name: Commit and push generated files to widgets-snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: 'Update snake game [skip ci]'
+          add: 'dist/**'
+          branch: 'widgets-snake'
+          token: ${{ secrets.GITHUB_TOKEN }}
