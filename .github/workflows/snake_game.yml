@@ -4,7 +4,7 @@ name: Generate Snake Game
 on:
   # Schedules the workflow to run every day at midnight
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
   # Triggers the workflow on push or pull request events but only for the "widget" branch
   push:
     branches: [ "widget" ]
