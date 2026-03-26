@@ -82,12 +82,12 @@ Here are some ideas to get you started:
 ## AI / LLM Stack
 
 <p>
-  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" title="OpenAI" /></code>
-  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" alt="Gemini" title="Gemini" /></code>
-  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/vertexai.svg" alt="Vertex AI" title="Vertex AI" /></code>
-  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" /></code>
-  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/azureai.svg" alt="Azure AI" title="Azure AI" /></code>
-  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" /></code>
+  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/openai.svg" alt="OpenAI" title="OpenAI" /></code>
+  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/gemini.svg" alt="Gemini" title="Gemini" /></code>
+  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/vertexai.svg" alt="Vertex AI" title="Vertex AI" /></code>
+  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" /></code>
+  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/azureai.svg" alt="Azure AI" title="Azure AI" /></code>
+  <code><img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/huggingface.svg" alt="Hugging Face" title="Hugging Face" /></code>
 </p>
 
 ## Backend & Platforms
