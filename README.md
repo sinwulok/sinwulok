@@ -79,6 +79,19 @@ Here are some ideas to get you started:
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
 </p>
 
+## AI / LLM Stack
+
+<p>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/openai.svg" alt="OpenAI" title="OpenAI"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/anthropic.svg" alt="Anthropic" title="Anthropic"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/gemini.svg" alt="Gemini" title="Gemini"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/vertexai.svg" alt="Vertex AI" title="Vertex AI"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/crewai.svg" alt="CrewAI" title="CrewAI"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/azureai.svg" alt="Azure AI" title="Azure AI"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/light/huggingface.svg" alt="Hugging Face" title="Hugging Face"/></code>
+</p>
+
 ## Backend & Platforms
 
 <p>
