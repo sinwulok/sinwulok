@@ -83,26 +83,19 @@ Here are some ideas to get you started:
 
 <p>
   <code><img width="40" height="40" alt="OpenAI" title="OpenAI"
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/openai.svg" /></code>
-
+    src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" /></code>
   <code><img width="40" height="40" alt="Anthropic" title="Anthropic"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/anthropic.svg" /></code>
-
   <code><img width="40" height="40" alt="Gemini" title="Gemini"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/gemini.svg" /></code>
-
   <code><img width="40" height="40" alt="Vertex AI" title="Vertex AI"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/vertexai.svg" /></code>
-
   <code><img width="40" height="40" alt="GitHub Copilot" title="GitHub Copilot"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/githubcopilot.svg" /></code>
-
   <code><img width="40" height="40" alt="CrewAI" title="CrewAI"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/crewai.svg" /></code>
-
   <code><img width="40" height="40" alt="Azure AI" title="Azure AI"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/azureai.svg" /></code>
-
   <code><img width="40" height="40" alt="Hugging Face" title="Hugging Face"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/huggingface.svg" /></code>
 </p>
