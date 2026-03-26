@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+The+New;Interlligence+Era+!" alt="Typing SVG" />
 </div>
 
+<!-- Intro -->
+> I am Maximilian, nickname SinWu.
 > Building practical projects, learning continuously, and organizing my work as a personal brand hub.
 
 ## Featured Projects
