@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
 > I am Maximilian, nickname SinWu.
-> Building practical projects, learning continuously, and organizing my work as a personal brand hub.
+> Building practical projects, learning continuously, 
+> and organizing my work as a personal brand hub.
 
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
 
