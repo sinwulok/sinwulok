@@ -4,7 +4,7 @@ name: Generate Snake Game
 on:
   # Schedules the workflow to run every 5 minutes (minimum supported by GitHub Actions)
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 5 * * *"
   # Triggers the workflow on push or pull request events but only for the "widgets" branch
   push:
     branches: [ "widgets-snake" ]
