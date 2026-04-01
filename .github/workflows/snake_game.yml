@@ -1,5 +1,8 @@
 name: Generate Snake Game
 
+permissions:
+  contents: write
+
 # Controls when the workflow will run
 on:
   # Schedules the workflow to run every 5 minutes (minimum supported by GitHub Actions)
