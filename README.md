@@ -66,16 +66,14 @@ Here are some ideas to get you started:
 - Incentive design, governance, and economic mechanisms
 - On-chain and off-chain intelligence workflows
 
-## Core Languages
+## Tech Stack
 
 <p>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
-</p>
-
-## AI / LLM Stack
-
-<p>
+  <code><img width="40" height="40" alt="Python" title="Python"
+          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+  <code><img width="40" height="40" alt="Rust" title="Rust"
+          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
+  
   <code><img width="40" height="40" alt="Gemini" title="Gemini"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/gemini.svg" /></code>
   <code><img width="40" height="40" alt="GitHub Copilot" title="GitHub Copilot"
