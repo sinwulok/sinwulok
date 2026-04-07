@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 <div align="center">
-  
+
+<!-- Contribute Graph -->
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
 <!-- GitHub Snake Ocean -->
-<br>
   <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
 
