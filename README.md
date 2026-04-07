@@ -72,18 +72,18 @@ Here are some ideas to get you started:
 
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
-
 <div align="center">
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)
-
+  
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <!-- GitHub Snake Ocean -->
-  <br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
+<br>
+  <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
 
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
-
 ## Current Focus
 
 ```
@@ -101,16 +101,14 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-
 ### 💡 Random Dev Quote
-
+<div align="center">
+  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
-
 
 ## 📫 Connect With Me
 
