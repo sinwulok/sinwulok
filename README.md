@@ -31,12 +31,14 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+!+New+!;Interlligence+Era+!" alt="Typing SVG" />
 </div>
 
+---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
 > I am Maximilian, nickname SinWu.
 > Building practical projects, learning continuously, 
 > and organizing my work as a personal brand hub.
 
+---
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
 
 ## Featured Projects
@@ -51,10 +53,13 @@ Here are some ideas to get you started:
 
 > Credentials page: [sinwulok.github.io/credentials/](https://sinwulok.github.io/credentials/)
 
+---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
 
 ## Core Focus
+
+```
 - AI / LLM Engineering
 - Data Science (Intelligence) > AI & Tokenized Intelligence
 - Tokenization Economic > Agentic Tokenized Intelligence Governance
@@ -65,7 +70,10 @@ Here are some ideas to get you started:
 - AI-mediated systems for decision-making and coordination
 - Incentive design, governance, and economic mechanisms
 - On-chain and off-chain intelligence workflows
+```
 
+---
+<!-- Tech Stacks -->
 ## Tech Stack
 
 <p>
@@ -82,6 +90,7 @@ Here are some ideas to get you started:
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/huggingface.svg" /></code>
 </p>
 
+---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 
 <div align="center">
