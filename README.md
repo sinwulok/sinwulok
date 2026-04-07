@@ -106,8 +106,12 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 Random Dev Quote
+
+<p align="center">
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</p>
 
 ---
 
