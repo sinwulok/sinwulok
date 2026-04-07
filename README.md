@@ -1,21 +1,3 @@
-<!--
-This area most for the empty commit to view any change in the README
--->
-<!--
-**sinwulok/sinwulok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- 🔥🔥🔥🔥🔥🔥🔥 -->
 
 <h1 align="center">
@@ -39,12 +21,10 @@ Here are some ideas to get you started:
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
 > I am Maximilian, nickname SinWu.
-> Building practical projects, learning continuously, 
-> and organizing my work as a personal brand hub.
+> Building practical projects, learning continuously, and organizing my work as a personal brand hub.
 
 ---
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
-
 ## Featured Projects
 
 | Project | Description | Status |
@@ -76,7 +56,6 @@ Here are some ideas to get you started:
 
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
-
 <!-- Contribute Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -88,7 +67,7 @@ Here are some ideas to get you started:
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
-## Current Focus
+## 🔭 Current Focus
 
 ```
 - AI / LLM Engineering
@@ -105,7 +84,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💡 Random Dev Quote
+## 💡 Random Dev Quote
 
 <div align="center">
   
@@ -115,7 +94,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Connect With Me
+## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-lok/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@SW552i)
