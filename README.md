@@ -93,7 +93,9 @@ Here are some ideas to get you started:
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 
 <div align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<!-- GitHub Snake Ocean -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)
+
+<!-- GitHub Snake Ocean -->
   <br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
 
