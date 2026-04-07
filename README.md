@@ -93,8 +93,7 @@ Here are some ideas to get you started:
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats-biuwu.vercel.app/api?username=sinwulok&rank_icon=github&include_all_commits&card_width=320&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA" />
-  <img height=220 align="center" src="https://github-readme-stats-biuwu.vercel.app/api/top-langs?username=sinwulok&layout=compact&bg_color=30,CC66FF,DD90DD,EAABC7,F1BBBA,F1BBBA&exclude_repo=isArchived" />
+[![sinwu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok)](https://github.com/sinwulok/github-readme-activity-graph)
 <!-- GitHub Snake Ocean -->
   <br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
