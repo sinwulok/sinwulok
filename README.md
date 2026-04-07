@@ -27,12 +27,14 @@ Here are some ideas to get you started:
   <span>🔥 Welcome SINWU's Github 🔥</span>
 </h1>
 
+  [![typying](assets/typing-cat-white.gif)]
+  [![typying](assets/typing-cat-white.gif)]
+  [![typying](assets/typing-cat-white.gif)]
+  ![typying](assets/typing-cat-white.gif)
+  ![typying](assets/typing-cat-white.gif)
+  
 <div align="center">
-  [![typying](assets/typing-cat-white.gif)]
-  [![typying](assets/typing-cat-white.gif)]
-  [![typying](assets/typing-cat-white.gif)]
-  ![typying](assets/typing-cat-white.gif)
-  ![typying](assets/typing-cat-white.gif)
+
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+!+New+!;Interlligence+Era+!" alt="Typing SVG" />
 </div>
 
