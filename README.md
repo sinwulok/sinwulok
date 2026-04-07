@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  ![typying](assets/typing-cat-white.gif)
+  [![typying](assets/typing-cat-white.gif)]
+  [![typying](assets/typing-cat-white.gif)]
+  [![typying](assets/typing-cat-white.gif)]
   ![typying](assets/typing-cat-white.gif)
   ![typying](assets/typing-cat-white.gif)
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+!+New+!;Interlligence+Era+!" alt="Typing SVG" />
