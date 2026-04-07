@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 | [learning](https://github.com/sinwulok/learning) | 📚 GitHub Skills exercises, coursework practice, and learning notes. | Active |
 | [biu1-ai-quant](https://github.com/sinwulok/biu1-ai-quant) | 👨‍🏫 AI quant assistant for personal investment research. | Ongoing |
 | [biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github) | 🧪 Agentic RAG experimentation on GitHub. | Experimental |
-| [public-demos](https://github.com/sinwulok/public-demos) | 🚀 Public demos and completed/deployed projects. | Archived / Portfolio |
+| [atlas](https://github.com/sinwulok/atlas) | 🚀 Public repository ecosystem with metadata-driven governance.  | Archived / Portfolio |
 
 > Credentials page: [sinwulok.github.io/credentials/](https://sinwulok.github.io/credentials/)
 
