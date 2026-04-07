@@ -70,84 +70,19 @@ Here are some ideas to get you started:
 
 <p>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
 </p>
 
 ## AI / LLM Stack
 
 <p>
-  <code><img width="40" height="40" src="./assets/Google_AI_Studio.svg" alt="Google AI Studio" title="Google AI Studio"/></code>
-  <code><img width="40" height="40" src="./assets/icons8-openai.svg" alt="OpenAI" title="OpenAI"/></code>
-  <code><img width="40" height="40" src="./assets/grok.png" alt="Grok" title="Grok"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
-</p>
-
-## AI / LLM Stack
-
-<p>
-  <code><img width="40" height="40" alt="OpenAI" title="OpenAI"
-    src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" /></code>
-  <code><img width="40" height="40" alt="Anthropic" title="Anthropic"
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/anthropic.svg" /></code>
   <code><img width="40" height="40" alt="Gemini" title="Gemini"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/gemini.svg" /></code>
-  <code><img width="40" height="40" alt="Vertex AI" title="Vertex AI"
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/vertexai.svg" /></code>
   <code><img width="40" height="40" alt="GitHub Copilot" title="GitHub Copilot"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/githubcopilot.svg" /></code>
-  <code><img width="40" height="40" alt="CrewAI" title="CrewAI"
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/crewai.svg" /></code>
-  <code><img width="40" height="40" alt="Azure AI" title="Azure AI"
-    src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/azureai.svg" /></code>
   <code><img width="40" height="40" alt="Hugging Face" title="Hugging Face"
     src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/huggingface.svg" /></code>
 </p>
-
-## Backend & Platforms
-
-<p>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="Google Cloud Platform" title="Google Cloud Platform"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
-</p>
-
-## Frontend & UI
-
-<p>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
-  <code><img width="40" height="40" src="./assets/three_js.svg" alt="Three.js" title="Three.js"/></code>
-</p>
-
-## Data & Analytics
-
-<p>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-  <code><img width="40" height="40" src="./assets/scikit-learn.svg" alt="Scikit-Learn" title="Scikit-Learn"/></code>
-</p>
-
-## Infrastructure & Tools
-
-<p>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></code>
-  <code><img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-</p>
-
-<h1></h1>
 
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 
@@ -157,6 +92,18 @@ Here are some ideas to get you started:
 <!-- GitHub Snake Ocean -->
   <br> <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
 
 <!--
 ![GitHub Snake](./dist/github-snake.svg)
