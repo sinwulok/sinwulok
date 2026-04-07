@@ -33,10 +33,11 @@ Here are some ideas to get you started:
   ![typying](assets/typing-cat-white.gif)
   ![typying](assets/typing-cat-white.gif)
   
-<div align="center">
-
+<p align="center">
+  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="64" />
+  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="64" />
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+!+New+!;Interlligence+Era+!" alt="Typing SVG" />
-</div>
+</p>
 
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
@@ -79,15 +80,15 @@ Here are some ideas to get you started:
 
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
-<div align="center">
 
 <!-- Contribute Graph -->
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- GitHub Snake Ocean -->
+<div align="center>
   <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
 </div>
-
+  
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
@@ -109,19 +110,13 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 Random Dev Quote
-<div align="center">
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-lok/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@SW552i)
 
-</div>
