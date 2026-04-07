@@ -81,20 +81,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinwulok)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-lok/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@SW552i)
-
-</div>
-
----
-
----
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
 <!-- standard summary format -->
 
@@ -125,10 +111,12 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
-![GitHub Snake](./dist/github-snake.svg)
 
-![GitHub Snake Dark](./dist/github-snake-dark.svg)
+## 📫 Connect With Me
 
-![GitHub Snake Ocean](./dist/ocean.gif)
--->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-lok/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@SW552i)
+
+</div>
