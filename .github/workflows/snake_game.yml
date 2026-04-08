@@ -1,7 +1,7 @@
 name: Generate Snake Game
 
 permissions:
-  contents: write
+  contents: read
 
 on:
   schedule:
@@ -11,9 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository (read-only credentials)
         uses: actions/checkout@v4
