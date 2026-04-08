@@ -32,10 +32,10 @@ jobs:
         if: always()
         env:
           REPO: ${{ github.repository }}
-          BRANCH: widgets              # <- 若要改成 widgets-snake-game，改這裡
+          BRANCH: widgets
           GIT_EMAIL: github-actions[bot]@users.noreply.github.com
           GIT_NAME: github-actions
-          # 預設使用 GITHUB_TOKEN；若要使用 PAT，改為 ${{ secrets.REPO_PAT }} 並在 repo secrets 新增 REPO_PAT
+          # 新增 REPO_PAT
           TOKEN: ${{ secrets.REPO_PAT }}
           TMP_DIR: tmp-widgets
         run: |
@@ -74,6 +74,6 @@ jobs:
 
           # 強制推送到目標 branch（會覆寫該 branch 的內容為這次 dist 的 tree）
           # 若你不想強制覆寫，去掉 --force，但若 branch 結構不同可能推送會被拒絕
-          git push "https://x-access-token:${TOKEN}@github.com/${REPO}.git" HEAD:refs/heads/${BRANCH}
+          git push --force "https://x-access-token:${TOKEN}@github.com/${REPO}.git" HEAD:refs/heads/${BRANCH}
 
           echo "Pushed dist to ${BRANCH} branch."
