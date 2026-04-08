@@ -3,44 +3,38 @@ name: Generate Snake Game
 permissions:
   contents: write
 
-# Controls when the workflow will run
 on:
-  # Schedules the workflow to run every 5 minutes (minimum supported by GitHub Actions)
   schedule:
     - cron: "0 5 * * *"
-  # Triggers the workflow on push or pull request events but only for the "widgets" branch
   push:
     branches: [ "widgets-snake" ]
   pull_request:
     branches: [ "widgets-snake" ]
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
-      # Uses the Platane/snk action to generate the snake game
       - name: Generate Snake Game
-        uses: Platane/snk@v3
+        uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # 注意：這一步不再傳入 GITHUB_TOKEN（若該 action確實不需要 repo 寫入）
 
-      # Commit and push generated files to the dedicated branch `widgets-snake`
       - name: Commit and push generated files to widgets-snake
         uses: EndBug/add-and-commit@v9
         with:
