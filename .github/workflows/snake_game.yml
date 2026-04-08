@@ -39,7 +39,7 @@ jobs:
           GIT_EMAIL: github-actions[bot]@users.noreply.github.com
           GIT_NAME: github-actions
           # 預設使用 GITHUB_TOKEN；若要使用 PAT，改為 ${{ secrets.REPO_PAT }} 並在 repo secrets 新增 REPO_PAT
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.REPO_PAT }}
           TMP_DIR: tmp-widgets
         run: |
           set -euo pipefail
