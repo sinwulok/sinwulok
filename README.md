@@ -60,9 +60,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinwulok&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- GitHub Snake Ocean -->
-<div align="center>
-  <img src="./dist/ocean.gif" alt="GitHub Snake Ocean" />
-</div>
+![GitHub Snake Ocean](https://raw.githubusercontent.com/sinwulok/sinwulok/widgets/dist/ocean.gif)
   
 ---
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️ -->
