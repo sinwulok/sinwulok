@@ -10,9 +10,9 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="64" />
-  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="64" />
-  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="64" />
+  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="75" />
+  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="75" />
+  <img src="./assets/typing-cat-white.gif" alt="typing cat" width="75" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=52&pause=1000&color=F74C10&center=true&vCenter=true&random=true&width=800&height=90&lines=Hello+world;Welcome+!+New+!;Interlligence+Era+!" alt="Typing SVG" />
 </p>
