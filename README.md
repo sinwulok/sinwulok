@@ -20,8 +20,8 @@
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
-> I am Maximilian, nickname SinWu. working on SSR Specialist (System Scalable Refactoring)
-> Mission: Empower the next generation of developers with safe, fast, and scalable engineering paradigms.
+# I am Maximilian, nickname SinWu. working on SSR Specialist (System Scalable Refactoring)
+# Mission: Empower the next generation of developers with safe, fast, and scalable engineering paradigms.
 
 ---
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
