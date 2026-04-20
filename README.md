@@ -48,10 +48,11 @@ graph LR
 <!-- Tech Stacks -->
 ## Tech Stack
 
-![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white??style=social) 
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
 
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
