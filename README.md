@@ -22,9 +22,15 @@
 
 ```
 
-I am Maximilian, nickname SinWu. working on SSR Specialist (System Scalable Refactoring)
+SINWU LOK | SSR Specialist | System Scalable Refactoring
 
-Mission: Empower the next generation of developers with safe, fast, and scalable engineering paradigms.
+    "Deconstructing legacy bottlenecks to build a high-performance future."
+
+    Mission: Modernizing software ecosystems by replacing memory-unsafe legacy with Rust-native paradigms.
+
+    Focus: Eradicating technical debt through structural reconstruction and zero-cost abstractions.
+
+    Philosophy: First Principles over industrial templates. Efficiency over bloat.
 
 ```
 ---
