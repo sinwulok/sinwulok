@@ -57,13 +57,23 @@ graph LR
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
 ## Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| [sinwulok](https://github.com/sinwulok/sinwulok) | 📝 Personal profile repository and GitHub identity hub. | Active |
-| [credentials](https://github.com/sinwulok/credentials) | 🎓 Certifications, credentials, and selected proof-of-work highlights. | Active |
-| [biu1-ai-quant](https://github.com/sinwulok/biu1-ai-quant) | 👨‍🏫 AI quant assistant for personal investment research. | Ongoing |
-| [biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github) | 🧪 Agentic RAG experimentation on GitHub. | Experimental |
-| [atlas](https://github.com/sinwulok/atlas) | 🚀 Public repository ecosystem with metadata-driven governance.  | Archived / Portfolio |
+### 🏗️ Ongoing Projects
+> **Focused on scalable architecture, agentic workflows, and market intelligence.**
+
+* **[atlas](https://github.com/sinwulok/atlas)** `Assets`
+    * 🏛️ **Ecosystem Nexus:** Metadata-driven repository governance and technical navigation center.
+* **[biu1-ragme-github](https://github.com/sinwulok/biu1-ragme-github)** `Lab`
+    * 🧪 **Agentic RAG:** Advanced experimentation on LLM-driven GitHub automation skills.
+
+---
+
+### 👀 Identity & Credentials
+> **Verified professional milestones and atomic identity assets.**
+
+* **[sinwulok](https://github.com/sinwulok/sinwulok)** `Hub`
+    * 📝 Personal profile repository and official GitHub identity entry point.
+* **[credentials](https://github.com/sinwulok/credentials)** `POW`
+    * 🎓 **Proof-of-Work:** Curated collection of certifications, credentials, and project highlights.
 
 > Credentials page: [sinwulok.github.io/credentials/](https://sinwulok.github.io/credentials/)
 
