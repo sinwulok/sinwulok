@@ -20,7 +20,7 @@
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
-# 🪪 SINWU LOK | SSR Specialist | System Scalable Refactoring
+# 🦉 SINWU LOK | SSR Specialist | System Scalable Refactoring
 
 ```mermaid
 graph LR
