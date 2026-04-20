@@ -20,7 +20,7 @@
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
-# SINWU LOK | SSR Specialist | System Scalable Refactoring
+# 🪪 SINWU LOK | SSR Specialist | System Scalable Refactoring
 
 ```mermaid
 graph LR
@@ -55,7 +55,7 @@ graph LR
 ```
 ---
 <!-- Feature Table 📖📝🎓📚👨‍🏫🧪🚀 -->
-## Featured Projects
+## 🩻 Featured Projects
 
 ### 🏗️ Ongoing Projects
 > **Focused on scalable architecture, agentic workflows, and market intelligence.**
@@ -79,7 +79,7 @@ graph LR
 
 ---
 <!-- Tech Stacks -->
-## Tech Stack
+## 🕹️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=black)
