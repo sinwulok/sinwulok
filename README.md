@@ -25,7 +25,7 @@
 ```mermaid
 graph LR
     %% 樣式定義
-    classDef legacy fill:#1a1a1a,stroke:#444,stroke-width:1px,color:#666,stroke-dasharray: 2 2
+    classDef legacy fill:#1a1a1a,stroke:#444,stroke-width:1px,color:#ff4444,stroke-dasharray: 2 2
     classDef surgeon fill:#e44d26,stroke:#fff,stroke-width:2px,color:#fff,font-weight:bold
     classDef result fill:#1b3d2f,stroke:#2ecc71,stroke-width:3px,color:#2ecc71,font-weight:bold
 
