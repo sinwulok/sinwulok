@@ -25,7 +25,7 @@
 ```mermaid
 graph LR
 
-    A[Legacy Java] -- SSR Operation --> B(Rust Infrastructure)
+    A[Legacy Techical Debt] -- SSR Operation --> B(Refactoring)
     B --> C{Scalability}
     C -->|Success| D[Next Gen Paradigm]
 
