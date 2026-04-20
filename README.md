@@ -48,12 +48,11 @@ graph LR
 <!-- Tech Stacks -->
 ## Tech Stack
 
-<img width="40" height="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-<img width="40" height="40" alt="Rust" title="Rust" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
-<img width="40" height="40" alt="Gemini" title="Gemini" src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/gemini.svg" />
-<img width="40" height="40" alt="GitHub Copilot" title="GitHub Copilot" src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/githubcopilot.svg" />
-<img width="40" height="40" alt="Hugging Face" title="Hugging Face" src="https://unpkg.com/@lobehub/icons-static-svg@1.79.0/icons/huggingface.svg" />
-  
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
 ---
 <!-- workflow widgets 🔮🌐🧩🔲✨📊🌀 -->
 <!-- Contribute Graph -->
