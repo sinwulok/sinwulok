@@ -20,9 +20,9 @@
 ---
 <!-- Intro 🫠🫠🫠🫠🫠🫠🫠 -->
 
-```
+# SINWU LOK | SSR Specialist | System Scalable Refactoring
 
-SINWU LOK | SSR Specialist | System Scalable Refactoring
+```
 
 graph LR
     A[Legacy Java] -- SSR Operation --> B(Rust Infrastructure)
