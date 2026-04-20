@@ -22,9 +22,9 @@
 
 # SINWU LOK | SSR Specialist | System Scalable Refactoring
 
-```
-
+```mermaid
 graph LR
+
     A[Legacy Java] -- SSR Operation --> B(Rust Infrastructure)
     B --> C{Scalability}
     C -->|Success| D[Next Gen Paradigm]
