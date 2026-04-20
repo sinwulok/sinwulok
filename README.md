@@ -37,7 +37,7 @@ graph LR
     %% 區域 2: AI 智能驅動 (L -> R)
     subgraph Zone_Agentic ["Agentic Tool Chain"]
         direction LR
-        T1[Agentic] --> T2[MCP | RAG] --> T3[Scalable]
+        T1[Agentic] --> T2[MCP / RAG] --> T3[Scalable]
     end
 
     %% 區域 3: 最終成果 (Green Circle)
