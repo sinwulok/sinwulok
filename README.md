@@ -24,10 +24,35 @@
 
 ```mermaid
 graph LR
+    %% 樣式定義
+    classDef legacy fill:#1a1a1a,stroke:#444,stroke-width:1px,color:#666,stroke-dasharray: 2 2
+    classDef surgeon fill:#e44d26,stroke:#fff,stroke-width:2px,color:#fff,font-weight:bold
+    classDef result fill:#1b3d2f,stroke:#2ecc71,stroke-width:3px,color:#2ecc71,font-weight:bold
 
-    A[Legacy Techical Debt] -- SSR Operation --> B(Refactoring)
-    B --> C{Scalability}
-    C -->|Success| D[Next Gen Paradigm]
+    %% 區域 1: 熵增混亂
+    subgraph Zone_Legacy ["The Bloated Past"]
+        A["Legacy Complexity"] --- B["Resource Leaks"]
+    end
+
+    %% 區域 2: AI 智能驅動 (L -> R)
+    subgraph Zone_Agentic ["Agentic Tool Chain"]
+        direction LR
+        T1[Agentic] --> T2[MCP | RAG] --> T3[Scalable]
+    end
+
+    %% 區域 3: 最終成果 (Green Circle)
+    subgraph Zone_Result ["Scalable Order"]
+        R((High Performance Assets))
+    end
+
+    %% 連接邏輯
+    Zone_Legacy ==> Zone_Agentic
+    Zone_Agentic ==> R
+
+    %% 樣式應用
+    class A,B legacy
+    class T1,T2,T3 surgeon
+    class R result
 
 ```
 ---
