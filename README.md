@@ -30,20 +30,18 @@ graph LR
     classDef result fill:#1b3d2f,stroke:#2ecc71,stroke-width:3px,color:#2ecc71,font-weight:bold
 
     %% 區域 1: 熵增混亂
-    subgraph Zone_Legacy ["The Bloated Past"]
+    subgraph Zone_Legacy ["Chaos Technical Debt"]
         A["Legacy Complexity"] --- B["Resource Leaks"]
     end
 
     %% 區域 2: AI 智能驅動 (L -> R)
-    subgraph Zone_Agentic ["Agentic Tool Chain"]
+    subgraph Zone_Agentic ["Tool Chain"]
         direction LR
         T1[Agentic] --> T2[MCP / RAG] --> T3[Scalable]
     end
 
     %% 區域 3: 最終成果 (Green Circle)
-    subgraph Zone_Result ["Scalable Order"]
-        R((High Performance Assets))
-    end
+    R((High Performance Scalable Assets))
 
     %% 連接邏輯
     Zone_Legacy ==> Zone_Agentic
