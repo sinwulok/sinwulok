@@ -58,7 +58,7 @@ graph LR
 
 ### AI Assistants
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0F9D58?style=for-the-badge&logo=googlegemini&logoColor=4285F4)
+![Gemini](https://img.shields.io/badge/Gemini-F4B400?style=for-the-badge&logo=googlegemini&logoColor=4285F4)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
