@@ -67,7 +67,7 @@ graph LR
 
 ---
 
-### 👀 Identity & Credentials
+### 🎓 Profile & Credentials
 > **Verified professional milestones and atomic identity assets.**
 
 * **[sinwulok](https://github.com/sinwulok/sinwulok)** `Hub`
